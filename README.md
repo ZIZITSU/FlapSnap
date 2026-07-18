@@ -11,7 +11,7 @@ A 2D game created using Unity and C#.
 Add your gameplay screenshots here.
 
 ```markdown
-![Gameplay Screenshot](Screenshots/gameplay.png)
+![Gameplay Screenshot](Assets/Screenshots/Screenshot.png)
 ```
 
 ## Controls
