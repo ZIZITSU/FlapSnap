@@ -10,9 +10,9 @@ A 2D game created using Unity and C#.
 
 Add your gameplay screenshots here.
 
-```markdown
+
 ![Gameplay Screeenshot](./Assets/Screeenshots/Screenshot.png)
-```
+
 
 ## Controls
 
@@ -48,7 +48,7 @@ Add your gameplay screenshots here.
 
 The latest playable build is available on itch.io:
 
-**[https://YOUR-USERNAME.itch.io/YOUR-GAME-NAME](https://mahir-labib.itch.io/flapsnap)**
+**[Download](https://mahir-labib.itch.io/flapsnap)**
 
 ## Developer
 
