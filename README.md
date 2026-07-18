@@ -4,7 +4,7 @@ A 2D game created using Unity and C#.
 
 ## Play the Game
 
-🎮 **[Play or download the game on itch.io]([https://YOUR-USERNAME.itch.io/YOUR-GAME-NAME](https://mahir-labib.itch.io/flapsnap))**
+**[Play](https://mahir-labib.itch.io/flapsnap)**
 
 ## Screenshots
 
@@ -41,11 +41,6 @@ A 2D game created using Unity and C#.
 4. Select the downloaded project folder.
 5. Open the project using the recommended Unity version.
 
-## Download
-
-The latest playable build is available on itch.io:
-
-**[Play](https://mahir-labib.itch.io/flapsnap)**
 
 ## Developer
 
